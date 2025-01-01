@@ -20,7 +20,7 @@ Welcome to my Github page! I am Ishaan and I am currently a second-year Computer
 - Mastering the art of writing clean, maintainable, and efficient code with best practices.
   
 #### :computer: Programming languages and tools:
-<img width="60%" align="center" src="https://skillicons.dev/icons?i=react,tailwind,typescript,js,mongodb,express,nodejs,python,tensorflow,html,css,git,flask" />
+<img width="75%" align="center" src="https://skillicons.dev/icons?i=react,tailwind,typescript,js,mongodb,express,nodejs,python,tensorflow,html,css,git,flask" />
 <br>
 <p>
 	<img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=ishaanJ91&theme=dark&show_icons=true" />
