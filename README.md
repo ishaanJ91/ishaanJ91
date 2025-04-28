@@ -17,13 +17,3 @@ My interests span across full-stack development, machine learning, and creating 
 	<img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=ishaanJ91&theme=dark&show_icons=true" />
   <img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaanJ91&layout=compact" />
 </p>
-
-
-### Latest YouTube Videos
-<!-- BEGIN YOUTUBE-CARDS -->
-[![OpenAI ACTUALLY made something open source.](https://ytcards.demolab.com/?id=t3GQiZMLPUg&title=OpenAI+ACTUALLY+made+something+open+source.&lang=en&timestamp=1744928104&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=587 "OpenAI ACTUALLY made something open source.")](https://www.youtube.com/watch?v=TeC-cnBBAb4&t=27s)
-
-#
-	
-
-
