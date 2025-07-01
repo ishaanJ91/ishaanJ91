@@ -14,6 +14,5 @@ My interests span across full-stack development, machine learning, and creating 
 <img width="75%" align="center" src="https://skillicons.dev/icons?i=react,tailwind,typescript,js,mongodb,express,nodejs,python,tensorflow,html,css,git,flask" />
 <br>
 <p>
-	<img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=ishaanJ91&theme=dark&show_icons=true" />
-  <img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaanJ91&layout=compact" />
+<img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=ishaanJ91&theme=dark&show_icons=true" />
 </p>
