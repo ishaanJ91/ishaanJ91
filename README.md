@@ -7,7 +7,7 @@
 ![Github Views](https://views.igorkowalczyk.dev/api/badge/ishaanJ91?style=classic)
 
 
-Welcome to my Github page! I am Ishaan and I am currently a second-year Computer Science student @ Trinity College Dublin, Ireland!
+Welcome to my Github page! I am Ishaan and I am currently a third-year Computer Science student @ Trinity College Dublin, Ireland!
 My interests span across full-stack development, machine learning, and creating random projects that teach my the basics of programming.  
 
 #### :computer: Programming languages and tools:
